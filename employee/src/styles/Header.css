@@ -1,0 +1,21 @@
+.header {
+    text-align: center;
+    color: #eca4ae;
+    background-color: #7c808d;
+    width: 100%;
+    padding: 30px;
+    border-bottom: 9px solid #eca4ae;
+    margin-bottom: 10px;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 36px;
+    line-height: 40px;
+}
+
+p {
+    font-size: 17px;
+    font-style: italic;
+}
