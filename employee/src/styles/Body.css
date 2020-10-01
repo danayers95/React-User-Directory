@@ -1,0 +1,18 @@
+.align-middle {
+    font-weight: 85%;
+    background-color: #eca4ae;
+}
+
+.name-cell {
+    background-color: #7c808d;
+    text-transform: capitalize;
+    
+}
+
+tbody {
+    background-color: #c5c5c5;
+}
+
+.img-responsive {
+    padding: 15px;
+}
